@@ -1,4 +1,4 @@
-# Mysql DDL(Data Definition Language)
+# MSSQL DDL(Data Definition Language)
 
 ## 테이블 생성
 ```sql

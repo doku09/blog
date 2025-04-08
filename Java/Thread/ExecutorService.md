@@ -1,4 +1,4 @@
-## ExecutorService란?
+## ExecutorService 프레임워크
 - 병렬 작업 시 여러 개의 작업을 효율적으로 처리하기 위해 제공되는 JAVA 라이브러리이다.
 
 > ExecutorService가 없었다면? 
@@ -12,6 +12,9 @@ for (int i = 0; i < threadCount; i++) {
 ```
 
 
+## Future
+
+- "미래"에서 연산된 값을 가진다. 
 
 
 

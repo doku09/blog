@@ -1,5 +1,4 @@
-# Mysql DDL(Data Definition Language)
-
+# Postgre DDL(Data Definition Language)
 ## 테이블 생성
 ```sql
 CREATE TABLE issued_coupon (
