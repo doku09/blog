@@ -15,6 +15,14 @@ CREATE TABLE issued_coupon (
 
 ```
 
+## 컬럼 수정
+```sql
+ALTER TABLE [테이블명] ALTER COLUMN [컬럼명] [데이터타입]
+
+-- ex
+ALTER TABLE dbo.PAS_DIST_MNG ALTER COLUMN WEB_URL NVARCHAR(1000)
+```
+
 
 
 
